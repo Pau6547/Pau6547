@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pau6547
+- 👋 Hi, I’m Paul
 - 👀 I’m interested in videogames and stuff
 - 🌱 I’m currently learning 
 - 📫 My discord _pau_8254
