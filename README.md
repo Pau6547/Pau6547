@@ -1,11 +1,9 @@
+# Pau
 
--Hi, I’m Pau
--I’m interested in videogames and stuff
--I’m currently learning 
--My discord _pau_8254
--Pronouns: he/him
+random brain-rotted guy trying to learn stuff
 
-<!---
-Pau6547/Pau6547 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Linux + AMD
+- Learning: LLMs, agents, Python, Linux
+- Into videogames
+- he/him
+- Discord: `_pau_8254`
